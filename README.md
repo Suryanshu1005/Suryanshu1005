@@ -9,7 +9,7 @@
 
 - 🔭Know more about me [https://suryanshu1005.github.io/My-Portfolio](https://suryanshu1005.github.io/My-Portfolio)
 
-- 🌱 I’m currently sharpening my backend development skills i.e. **Node.js and express.js**
+- 🌱 I’m currently learning **Nextjs and TypeScript** 
 
 - 📫 You can contact me at **tshuryanshu@gmail.com**
 
